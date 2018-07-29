@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-    /*hiiiiii from master*/
+    /*hiiiiii from the branch */
     CIN;
     ifstream file("input_file.txt");
     string test;
