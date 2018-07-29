@@ -10,6 +10,7 @@ using namespace std;
 
 int main()
 {
+    /*hiiiiii from master*/
     CIN;
     ifstream file("input_file.txt");
     string test;
