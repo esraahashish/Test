@@ -13,6 +13,8 @@ int main()
     /*hiiiiii from the branch */
     /*hiiiiii from the branch */
 
+    cout << "hi from master";
+
     CIN;
     ifstream file("input_file.txt");
     string test;
